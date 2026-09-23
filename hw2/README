@@ -1,2 +1,4 @@
+Sending all your project files to Github will be required in this assignment, including output logs, source code, binaries, slurm files, scipt files, etc.
+
 Make sure you switch to the GNU compiler with OpenMPI before compiling or
 running MPI jobs.  You can do this by running `source modules.sh`.
